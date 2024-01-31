@@ -74,7 +74,7 @@ for dir_path, dir_name, file_name in os.walk(direc):
                     os.mkdir(s)
                 os.replace(dir_path+"\\"+name, s+"\\"+name)
             else:
-                if not os.path.isdir(path_vid):
+                if not os.path.isdir(path_unknown):
                     os.mkdir(path_unknown)
                 os.replace(dir_path+"\\"+name,path_unknown+"\\"+name)
 
