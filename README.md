@@ -1,8 +1,6 @@
 # Directory Sorter
 
-This is a python powered tool which helps sorts directory files containing files of various formats. I have tried to incorporate all the functions based on the instructions and make the interface user-friendly. Any helpful suggestion/edits is welcome.
-
-## Getting started/installation
+This is a python powered tool which helps sorts directory files containing files of various formats. I have tried to incorporate all the functions based on the instructions and make the interface user-friendly. **This tool only works on windows software**. Any helpful suggestion/edits is welcome.
 
 ## Getting Started/Installation
 
